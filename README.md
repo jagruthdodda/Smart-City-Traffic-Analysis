@@ -4,8 +4,6 @@ Data mining on 1.45M NYC taxi trips (Jan–Jun 2016) enriched with daily weather
 three tasks: congestion-level **classification**, traffic-regime **clustering**, and
 **anomaly detection**.
 
-CS F-415 Data Mining, Group 19 — Jagruth Dodda, Sarvesh Chirnji Vaswani, Aniket Kumar Sinha.
-
 ## Data
 
 Neither CSV is tracked — both exceed GitHub's 100 MB per-file limit.
