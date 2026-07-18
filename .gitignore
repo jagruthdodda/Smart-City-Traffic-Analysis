@@ -1,0 +1,22 @@
+# ---------------------------------------------------------------
+# Large datasets - both exceed GitHub's 100 MB per-file hard limit.
+# See README.md for download / regeneration instructions.
+#   train.csv                      191 MB, Kaggle source data
+#   final_preprocessed_dataset.csv 154 MB, regenerate via preprocess.ipynb
+# ---------------------------------------------------------------
+train.csv
+final_preprocessed_dataset.csv
+
+# The weather CSV is small and is the integration input, so it stays tracked.
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
